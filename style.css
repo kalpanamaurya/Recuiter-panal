@@ -49,7 +49,7 @@ table {
   }
   
   table, th, td {
-    border: 1px solid #ccc;
+    border: 1px solid #cac1c1;
   }
   
   th, td {
@@ -57,5 +57,5 @@ table {
     text-align: left;
   }
   tr:nth-child(even) {
-    background-color: #f2f2f2;
+    background-color: #c9c1c1;
   }
