@@ -7,10 +7,10 @@ body{
     display: flex;
 }
 .sidebar{
-    width: 250x;
+    width: 230x;
     background-color: #333;
     color: white;
-    padding: 20px;
+    padding: 18px;
 }
 .logo{
     font-size: 20px;
@@ -20,7 +20,7 @@ body{
     padding: 0;
 }
 .menu li{
-    padding: 8px 0;
+    padding: 10px 0;
     cursor: pointer;
     transition: background-color 0.3s;
 }
@@ -29,13 +29,13 @@ body{
 }
 .main-content{
     flex:1;
-    padding: 18px;
+    padding: 20px;
 }
 
 .widget{
     background-color: #f4f4f4;
     padding: 20px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -49,7 +49,7 @@ table {
   }
   
   table, th, td {
-    border: 1px solid #cac1c1;
+    border: 1px solid #8d8888;
   }
   
   th, td {
@@ -57,5 +57,5 @@ table {
     text-align: left;
   }
   tr:nth-child(even) {
-    background-color: #c9c1c1;
+    background-color: #c9a9a9;
   }
