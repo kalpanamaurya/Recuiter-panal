@@ -13,7 +13,7 @@ body{
     padding: 18px;
 }
 .logo{
-    font-size: 20px;
+    font-size: 18px;
 }
 .menu{
     list-style: none;
@@ -25,7 +25,7 @@ body{
     transition: background-color 0.3s;
 }
 .menu li.active{
-    background-color: #444;
+    background-color: #cec5c5;
 }
 .main-content{
     flex:1;
